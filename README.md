@@ -1,6 +1,6 @@
 # WeatherNOW
 
-Flutter verseny házi feladat.
+Flutter verseny házi feladat. (1. helyezés)\
 Az alkalmazás fő fejlesztési platformja az `Android` (min. lvl 30 API) volt de az alkalmazás fut `iOS` platformon is. Ezen kívül az alkalmazás `webes` (böngésző) platformon is használható. (tartalmaz a használhatósághoz szükséges reszponzivitást de a design alapvetően mobilra készült). Az alkalmazás magyar és angol nyelvre lett lokalizálva.
 
 Az alkalmazást kipróbáltam a következő platformokon:
