@@ -77,3 +77,7 @@ Ez az oldal csak alap felhasználók számára érhető el. Itt az előzetesen e
 
 <img src="git_images/history_a.png" width="200">        <img src="git_images/history.png" width="200">
 
+## Forráskód
+
+A forráskód eléréséhez kérlek keress meg e-mail-ben.
+
